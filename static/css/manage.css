@@ -1,0 +1,13 @@
+.navbar-static-top{
+	background-color:rgb(148, 206, 255);
+}
+.list-group-item.selected{
+  background-color: rgb(155, 197, 244);
+}
+table.table-resource-list tr td{
+  vertical-align: middle;
+}
+ul.nav li.selected,ul.nav li.selected a{
+	background-color: white;
+	font-weight:bold;
+}
